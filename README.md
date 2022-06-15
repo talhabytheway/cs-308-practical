@@ -1,5 +1,4 @@
 # CS-308 Finals Practical assignment
----
 ## Description of programs
 - Program to input matrix using 2D array.
 - Program to find second smallest number in a array.
